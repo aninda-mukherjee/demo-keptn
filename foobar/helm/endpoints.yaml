@@ -1,2 +1,2 @@
 deploymentURIsLocal:
-  - "http://foobar.demo-keptn-qag:80" 
+  - "http://helloservice.demo-keptn-qag:80" 
